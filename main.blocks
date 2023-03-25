@@ -1,0 +1,1 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="tFr@Fpe83jzP3S_{}lnS">message</variable></variables><block type="ir_received_left_event" id="rxwVS{+22Ia/x5Z}5F4n" x="0" y="0"><field name="btn">RemoteButton.Power</field></block></xml>
